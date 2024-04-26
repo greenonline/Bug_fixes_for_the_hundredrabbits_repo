@@ -10,7 +10,7 @@ There are in fact, two repos:
 
 There are a few bugs in a couple of the files that needed ironing out. It is these files that I have added here. Some additional directories have also been added that expand, or enhance, the existing examples.
 
-One such example is [ExampleScene](), where I have added some additional primitives, such as a pyramid and a trapezium/rhombus
+One such enhanced example is [ExampleScene]() - in the file [main.pas](https://git.sr.ht/~rabbits/macintosh-cookbook/tree/master/item/units/Graf3DScene/main.pas), which is *only* on the [git.sr.ht repo](https://git.sr.ht/~rabbits/macintosh-cookbook/tree/master) (under [units](https://git.sr.ht/~rabbits/macintosh-cookbook/tree/master/item/units)) - where I have added some additional primitives, such as a 3D pyramid and a 3D trapezium/rhombus, as well as the associated 2D procedures.
 
 See also [Bugs in HundredRabbits Pascal files](https://gr33nonline.wordpress.com/2024/04/15/bugs-in-hundredrabbits-pascal-files/)
 
